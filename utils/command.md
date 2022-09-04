@@ -19,3 +19,5 @@
 # git diff
 
 # git log [-p ,stat , --pretty=oneline ,graph,pretty]
+
+# git status -s
