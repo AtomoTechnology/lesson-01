@@ -21,3 +21,7 @@
 # git log [-p ,stat , --pretty=oneline ,graph,pretty]
 
 # git status -s
+
+# git remote -v
+
+# git remote
